@@ -1,6 +1,6 @@
 {
   "name": "theme-gridly",
-  "description": "An info-card style layout that is responsive to mobile.",
+  "description": "A small info-card style layout that is responsive to mobile.",
   "devDependencies": {
     "gulp": "~3.8.7",
     "gulp-concat": "~2.3.4",
